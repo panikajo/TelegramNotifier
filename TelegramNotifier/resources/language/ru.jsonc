@@ -1,0 +1,7 @@
+{
+  // Доступные переменные: {HOSTNAME}, {MAP}, {CURRENT}, {MAX}
+  "ServerStatus": "<b>{HOSTNAME}</b>\n<b>Карта: </b>{MAP}\n<b>Игроки: </b>{CURRENT}/{MAX}",
+
+  // Доступные переменные: {NAME}, {STEAMID}, {AUTH}
+  "PlayerConnected": "<b>{NAME}</b>\nподключился\n<code>{STEAMID}</code>\n<a href=\"https://steamcommunity.com/profiles/{STEAMID}\">Профиль</a>"
+}

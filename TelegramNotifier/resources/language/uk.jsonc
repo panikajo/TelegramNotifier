@@ -1,0 +1,7 @@
+{
+  // Доступні змінні: {HOSTNAME}, {MAP}, {CURRENT}, {MAX}
+  "ServerStatus": "<b>{HOSTNAME}</b>\n<b>Мапа: </b>{MAP}\n<b>Гравці: </b>{CURRENT}/{MAX}",
+
+  // Доступні змінні: {NAME}, {STEAMID}, {AUTH}
+  "PlayerConnected": "<b>{NAME}</b>\nпідключився\n<code>{STEAMID}</code>\n<a href=\"https://steamcommunity.com/profiles/{STEAMID}\">Профіль</a>"
+}

@@ -1,0 +1,7 @@
+{
+  // Available placeholders: {HOSTNAME}, {MAP}, {CURRENT}, {MAX}
+  "ServerStatus": "<b>{HOSTNAME}</b>\n<b>Map: </b>{MAP}\n<b>Players: </b>{CURRENT}/{MAX}",
+
+  // Available placeholders: {NAME}, {STEAMID}, {AUTH}
+  "PlayerConnected": "<b>{NAME}</b>\nconnected\n<code>{STEAMID}</code>\n<a href=\"https://steamcommunity.com/profiles/{STEAMID}\">Profile</a>"
+}
