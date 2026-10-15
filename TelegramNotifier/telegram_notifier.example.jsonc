@@ -1,0 +1,22 @@
+{
+  "TelegramNotifier": {
+    "Version": 3,
+    "Language": "uk",
+    "BotToken": "YOUR_BOT_TOKEN",
+    "ServerStatus": {
+      "Enabled": true,
+      "ChatId": 0,
+      "MessageThreadId": 0,
+      "DisableNotification": true,
+      "SendIntervalMinutes": 5,
+      "SendUnchangedPeriodicStatus": false
+    },
+    "PlayerConnections": {
+      "Enabled": true,
+      "ChatId": 0,
+      "MessageThreadId": 0,
+      "DisableNotification": true,
+      "IgnoreBots": true
+    }
+  }
+}
