@@ -18,7 +18,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="10.0.0" ExcludeAssets="runtime" PrivateAssets="all" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="../README.md" Link="README.md" CopyToOutputDirectory="PreserveNewest" />
     <None Include="telegram_notifier.example.jsonc" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="resources/language/*.jsonc" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
